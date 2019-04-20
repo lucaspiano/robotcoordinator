@@ -1,0 +1,16 @@
+#ROBOTCOORDINATOR
+
+RobotCoordinator is a very simple Java sofware that simulates the coordinators of a Robot that lands on Mars.
+ This software gets the coordinator of a robot that lands on Mars following some rules:
+ F --> Moves Forward.
+ L --> Moves to the left
+ R --> Moves to the right.
+ The main idea of this software is based on a Math Grid where there are the X, Y and cartesian 
+ plain. 
+ 
+ 
+## Contributing
+For any questions, please email Lucas Abrão (lucaspiano@gmail.com).
+
+Please make sure to update tests as appropriate.
+ 
